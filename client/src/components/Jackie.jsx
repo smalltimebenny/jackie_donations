@@ -19,12 +19,12 @@ const Jackie = () => {
             <p>16350</p>
         
             <p>Electronic funds can be sent to:</p>
-            <div className="red">NOTE: Please add "Jackie" in the note field so that he money can be directed properly!</div>
+            <div className="red">NOTE: Please add "Jackie" in the note field so that the money can be directed properly!</div>
             <p>Venmo: <a href='http://venmo.com/Lacy-Lawson-2'>Lacy-Lawson-2</a> </p>
         </div>
         <br />
         <br />
-        <p>More information regarding fundraisers and additional donation optnions will be added as they become available.</p>
+        <p>More information regarding fundraisers and additional donation options will be added as they become available.</p>
     </div>
   )
 }
