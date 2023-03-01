@@ -16,11 +16,17 @@ h2 {
 
 .main{
   margin: 5% 10% 5% 10%;
-  /* border: 1px red solid; */
+  /* border: 1px #f4a460 dotted; */
   font-size: 2em;
   color: #f4a460;
 }
 
 .donationInfo{
   color: #c0362c ;
+  border: 1px #c0362c dotted;
+  padding: 1vh 0vh 1vh 0vh;
+}
+
+.red {
+  color: red;
 }
