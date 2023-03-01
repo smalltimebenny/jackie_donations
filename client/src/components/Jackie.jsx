@@ -3,7 +3,8 @@ import React from 'react'
 const Jackie = () => {
   return (
     <div className="main">
-        <p>From Facebook:</p>
+        <h2>From Facebook:</h2>
+        <br />
         <p>Jackie lost everything in a fire yesterday morning (2/27/2023).</p> 
     <p>There was no insurance, so she literally has nothing. There’s going to be something set up for donations to try to help her get back on her feet. If you know her, she is an amazing person who always makes everybody laugh and smile and she definitely did not deserve to have this happen in her life. She needs smiles right now.</p> 
         <p>If anybody wants to pitch in anything to help her get her life back, please see below.</p> 
