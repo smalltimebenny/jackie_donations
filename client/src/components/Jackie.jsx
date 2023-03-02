@@ -21,6 +21,7 @@ const Jackie = () => {
         
             <p>Electronic funds can be sent to:</p>
             <div className="red">NOTE: Please add "Jackie" in the note field so that the money can be directed properly!</div>
+            <p>GoFundMe: <a href="https://gofund.me/f4599e94">Jackie Williams Fire Relief Fund</a></p>
             <p>Venmo: <a href='http://venmo.com/Lacy-Lawson-2'>Lacy-Lawson-2</a> </p>
         </div>
         <br />
